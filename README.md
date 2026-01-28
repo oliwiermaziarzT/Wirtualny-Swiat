@@ -1,7 +1,7 @@
 Wirtualny Świat (C++)
 Projekt zrealizowany w ramach przedmiotu Programowanie Obiektowe na Politechnice Gdańskiej.
 
-                                             Główne Funkcjonalności
+Główne Funkcjonalności
 
 System Turowy: W każdej turze wszystkie organizmy wykonują akcje zgodne ze swoim rodzajem.
 
